@@ -1,16 +1,11 @@
-# stepper
+# Stepper
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada implementasi **Stepper**, yaitu komponen UI yang memungkinkan pengguna untuk menavigasi melalui langkah-langkah dalam suatu proses, seperti pengisian formulir atau wizard setup. Stepper memberikan cara yang terstruktur dan intuitif untuk menyelesaikan serangkaian langkah.
 
-## Getting Started
+## Fitur Utama
+- **Navigasi Langkah:** Aplikasi ini menggunakan widget Stepper untuk membagi proses menjadi beberapa langkah, memungkinkan pengguna untuk maju atau mundur di antara langkah-langkah tersebut.
+- **Tampilan Informasi yang Jelas:** Setiap langkah dapat menampilkan informasi dan elemen input yang relevan, sehingga pengguna dapat melihat progres mereka dengan jelas.
+- **Interaksi yang Responsif:** Pengguna dapat menavigasi antar langkah dengan mengklik tombol "Next" dan "Previous", memberikan pengalaman pengguna yang lancar dan mudah.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Stepper** di aplikasi Flutter. Komponen ini sangat berguna dalam situasi di mana proses yang panjang perlu dipecah menjadi bagian-bagian yang lebih kecil, memudahkan pengguna untuk mengikuti dan menyelesaikan langkah-langkah yang diperlukan. Dengan proyek ini, pengguna dapat belajar bagaimana menyesuaikan dan mengelola navigasi dalam aplikasi yang menggunakan Stepper.
