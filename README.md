@@ -9,3 +9,11 @@ Proyek Flutter ini berfokus pada implementasi **Stepper**, yaitu komponen UI yan
 
 ### Tujuan Proyek
 Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Stepper** di aplikasi Flutter. Komponen ini sangat berguna dalam situasi di mana proses yang panjang perlu dipecah menjadi bagian-bagian yang lebih kecil, memudahkan pengguna untuk mengikuti dan menyelesaikan langkah-langkah yang diperlukan. Dengan proyek ini, pengguna dapat belajar bagaimana menyesuaikan dan mengelola navigasi dalam aplikasi yang menggunakan Stepper.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/010.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/010.2.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/010.3.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/010.4.png" width="200px"/>
+</div>
